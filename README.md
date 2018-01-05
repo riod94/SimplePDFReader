@@ -6,6 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Requirements
 * Visual Studio Community or above
+* Adobe Reader XI
 
 ### Installing
 You can download this project ZIP file.
@@ -19,4 +20,4 @@ $ git clone https://github.com/riyos94/SimplePDFReader.git
 * [Adobe Reader XI](https://get.adobe.com/reader/otherversions/) - Dependency Management
 
 ## Authors
-* **Rio Dwi Prabowo** - *Initial work* - [riyos94](https://github.com/riyos94)
+* **Rio Dwi Prabowo** - [riyos94](https://github.com/riyos94)
